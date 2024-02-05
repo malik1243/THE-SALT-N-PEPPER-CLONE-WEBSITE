@@ -1,0 +1,263 @@
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+  overflow-x: hidden;
+    border: border-box;
+}
+*{
+    color: white;]
+    overflow-x: hidden;
+}
+
+
+
+.thelogo{
+    /* background-color: black; */
+    border: 2px solid black;
+    display: inline-block;
+    display: inline;
+    position: relative;
+    left: 100px
+   
+    
+    display: flex;
+}
+
+
+.the-navbar{
+    
+    position: relative;
+    bottom: 10px;
+    left: -10px;
+    text-align: center;
+
+    list-style: none;
+    background-color: black;
+    width: 1762px;
+    height: 80px;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    display: flex;
+}.the-navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    text-align: center;
+}
+.the-navbar li{
+    float: left;
+    /* flex: auto; */
+    ;
+    
+}
+.Home{
+    position: relative;
+    top: 13px;
+    left: 220px;
+}
+.logo{
+    font-size: 25px;
+    border: 2px solid transparent;
+    position: relative;
+    top: 8px;
+    left: 208px;
+}
+.shopping{
+    font-size: 25px;
+    border: 2px solid transparent;
+    position: relative;
+    top: 8px;
+    left: 208px;
+}
+.num{
+    background-color: orangered;
+    border-radius: 210px;
+    position: relative;
+    left: 160px;
+}
+
+.button{
+    background-color: orangered;
+    cursor: pointer;
+    outline: none;
+    color: white;
+    border-radius: 30%;
+    width: 170px;
+    height: 50px;
+    text-align:justify;
+    font-size: larger;
+    position: relative;
+    left: 150px;
+}
+.arrow{
+    background-color: white;
+    color:black;
+    border-radius: 100%;
+    width: 20px;
+    position: relative;
+    left: 95px;
+    top: 35px;
+    right: 15px;
+    font-size: 20px;
+   margin: 0px;
+   padding: 0px;
+}
+.border{
+    margin: 0px;
+    padding: 0px;
+    border:2px solid transparent;
+    background-color: #777;
+    /* border-left-width: 100%; */
+    height: 200px;
+    position: relative;
+    bottom: 20px;
+}
+.text{
+    color: #292929;
+    text-align: center;
+}
+
+.the-menu ul{
+    list-style: none;
+    display: block;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    pad: 20px;
+    letter-spacing: 2px;
+    display: flex;    
+
+}
+.the-menu ul a{
+    text-decoration: none;
+    display: block;
+}
+.the-menu ul li {
+    float:left
+}
+.Menu{
+    display: block;
+    padding: 10px;
+    position: relative;
+    right: 20px;
+}
+.lt{
+    border: 2px solid red;
+    background-color: red;
+    border-radius:50% ;
+    width: 50%;
+    position: relative;
+    right:10px ;
+    top: 8px;
+}
+.gt{
+    border: 2px solid red;
+    background-color: red;
+    border-radius:50% ;
+    width: 50%;
+    position: relative;
+    right:10px ;
+    top: 8px;
+}
+.Salt{
+    font-weight: bold;
+    font-size: xxx-large;
+    text-align: center;
+    padding-top: 40px;
+}
+ 
+.images{
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    
+}
+.images a{
+    text-decoration: none;
+
+}
+.img03{
+    background-color: black;
+}
+
+.button{
+    text-align: left;
+}
+.button01{
+    background-color: orangered;
+    cursor: pointer;
+    outline: none;
+    color: white;
+    border-radius: 30%;
+    width: 170px;
+    height: 50px;
+    text-align:justify;
+    font-size: larger;
+    position: relative;
+    right: 15px;
+}
+.button02{
+        background-color: orangered;
+        cursor: pointer;
+        outline: none;
+        color: white;
+        border-radius: 30%;
+        width: 170px;
+        height: 50px;
+        text-align:justify;
+        font-size: larger;
+        position: relative;
+        right: 15px;
+}
+
+.button03{
+    background-color: orangered;
+        cursor: pointer;
+        outline: none;
+        color: white;
+        border-radius: 30%;
+        width: 170px;
+        height: 50px;
+        text-align:justify;
+        font-size: larger;
+        position: relative;
+        right: 15px;
+}
+.images02{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.images02>a{
+    text-decoration: none;
+}
+.images03{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.images03>a{
+    text-decoration: none;
+}
+
+.images04{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.images04>a{
+    text-decoration: none ;
+}
+
+.ending{
+    background-color: rgb(255 255 255 / 6%);
+}
+
+.context{
+    text-size-adjust: initial;
+    text-align: center;
+}
